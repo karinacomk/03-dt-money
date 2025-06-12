@@ -20,3 +20,5 @@ Quando estamos usando styled componentes com Typescript precisa criar arquivos d
 @types/styled-components
 
 # Componente: Header
+
+# Componente: Summary
